@@ -1,0 +1,85 @@
+input {
+	width: 100px;
+	height: 50px;
+	background-color: #DBA901;
+	border-width: thin;
+	color: #ffffff;
+}
+
+.back {
+	background-color: #f1cf0f;
+}
+
+
+.back2 {
+	background-color: #E6E6E6;
+}
+
+.sizeimg {
+	width: 300px;
+	height: 300px;
+	margin-left: 50px;
+	margin-top: 50px;
+	margin-bottom: 20px;
+}
+
+/*margen boton sumate*/
+.boton1 {
+	margin-top: 50px;
+	margin-left: 100px;
+	margin-bottom: 50px;
+}
+
+/*margin navegador*/
+.navegador {
+	display: inline-block;
+	text-decoration: none;
+	list-style: none;
+	margin-top: 20px;
+	margin-left: 15px;
+	color: white;
+}
+
+/*titulos*/
+.titulo {
+	color: white;
+	text-align: center;
+}
+
+/*margen div-back*/
+
+.back1 {
+	background-color: white;
+	width: 400px;
+	margin-left: 60px;
+	margin-top: 50px;
+}
+.back3 {
+	background-color: white;
+	width: 400px;
+	margin-right: 60px;
+	margin-top: 50px;
+}
+
+.marbot {
+	margin-left: 40%;
+	margin-top: 30px;
+	margin-bottom: 30px;
+}
+
+.back4 {
+	background-color: #2E2E2E;
+}
+
+.color {
+	color: white;
+	margin: 100px;
+}
+
+.margin7 {
+	margin-bottom: 150px;
+}
+
+.margin8 {
+	margin-left: 50px;
+}
